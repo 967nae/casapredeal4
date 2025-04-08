@@ -12,7 +12,7 @@ body {
         background-color: #ffeb3b; /* Fundal diferit pentru telefoane mici */
     }
     .resize-button {
-        font-size: 14px; /* Micșorează fontul pe telefoane mici */
+        font-size: 10px; /* Micșorează fontul pe telefoane mici */
         padding: 10px 20px; /* Micșorează padding-ul pe telefoane mici */
     }
 }
